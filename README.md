@@ -1,7 +1,7 @@
 # Chuville
 
-PySerial = ler profundidade da água do arduino no código do python
-Notion(Kanban) = https://www.notion.so/pt-br
+- PySerial = ler profundidade da água do arduino no código do python
+- Notion(Kanban) = https://www.notion.so/pt-br
 
 ## Features relevantes
 - probabilidae de chuva
